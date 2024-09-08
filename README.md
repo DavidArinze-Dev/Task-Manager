@@ -153,5 +153,5 @@ First, create the environment variables file `.env` in the client folder. The `.
 &nbsp;
 
 ## For Support, Contact:
-
+David: david.nwankwo99@gmail.com
 
